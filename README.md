@@ -5,3 +5,12 @@ This project implements a K-Means Clustering algorithm to group customers of a r
 Customer segmentation helps businesses understand different types of customers and tailor marketing strategies accordingly.
 
 link:- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+ Dataset
+The dataset consists of customer details such as:
+
+Customer ID
+Gender
+Age
+Annual Income (k$)
+Spending Score (1-100)
